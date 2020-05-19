@@ -1,0 +1,6 @@
+package dev.ethanadams.flutterdemo2
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
