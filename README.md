@@ -4,4 +4,4 @@ Customized version of Flutter Demo 1
 
 # Description
 
-WIP
+Shows a funny little gif on launch. VERY basic starter app made alongside The Complete 2020 Flutter Development Bootcamp with Dart
